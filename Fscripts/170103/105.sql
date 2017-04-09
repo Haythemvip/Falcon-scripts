@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.ShipingBill ADD ReceverName2 NVARCHAR(250),ReceverAdd2 NVARCHAR(250),ReceverPhone2 NVARCHAR(250) , VesselNO NVARCHAR(250);

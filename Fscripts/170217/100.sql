@@ -1,0 +1,1 @@
+UPDATE 	dbo.keadSitting SET typeID = 0 WHERE BurshaseType > 0 AND typeID IS NULL 

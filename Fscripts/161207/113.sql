@@ -1,0 +1,3 @@
+
+
+ALTER TABLE dbo.EsnSarfOhda ADD DocNO NVARCHAR(50) , Journal BIGINT 

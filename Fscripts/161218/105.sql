@@ -1,0 +1,2 @@
+
+ALTER TABLE solafaccount ADD Notes NVARCHAR(150)

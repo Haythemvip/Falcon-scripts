@@ -1,0 +1,1 @@
+ALTER TABLE  byan ADD  DocNo NVARCHAR(50)

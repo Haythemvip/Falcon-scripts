@@ -1,0 +1,1 @@
+ALTER TABLE dbo.Taslem_Machine ADD Counterfirst BIGINT  

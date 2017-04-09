@@ -1,0 +1,2 @@
+
+ ALTER TABLE EmpCosts ADD Selected BIT DEFAULT 0 

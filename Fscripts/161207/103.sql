@@ -1,0 +1,2 @@
+
+ALTER TABLE  Hafez  ADD Notes NVARCHAR(50)

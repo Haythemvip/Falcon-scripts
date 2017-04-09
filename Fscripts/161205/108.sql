@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.WathaekType  ADD EnName NVARCHAR(50)

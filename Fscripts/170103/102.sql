@@ -1,0 +1,1 @@
+ALTER TABLE purchase_order ALTER COLUMN  AmrShera_ID NVARCHAR(100)

@@ -1,0 +1,1 @@
+ALTER TABLE dbo.emp ADD JobID_in_ID INT 

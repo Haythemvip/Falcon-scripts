@@ -1,0 +1,1 @@
+ALTER TABLE dbo.SalaryReport ADD DateComBak date

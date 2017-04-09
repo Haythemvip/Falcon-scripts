@@ -1,0 +1,2 @@
+
+ALTER TABLE  Kafeel ADD EnName NVARCHAR(250)

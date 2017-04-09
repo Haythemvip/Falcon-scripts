@@ -1,0 +1,3 @@
+
+
+ALTER TABLE dbo.byan ADD MandopID BIGINT 

@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.CostProjects ADD Destination NVARCHAR(150),Acccode2 NVARCHAR(50),AccName2 NVARCHAR(150),OstazName NVARCHAR(150)

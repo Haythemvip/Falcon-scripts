@@ -1,0 +1,23 @@
+
+CREATE TABLE [dbo].[El_Koyod_TEMP](
+	[Maden] [DECIMAL](18, 2) NULL,
+	[Daen] [DECIMAL](18, 2) NULL,
+	[Detis] [VARCHAR](500) NULL,
+	[AccID] [BIGINT] NULL,
+	[AccName] [NVARCHAR](500) NULL,
+	[costid] [BIGINT] NULL,
+	[CostName] [NVARCHAR](MAX) NULL,
+	[CostTypeID] [INT] NULL,
+	[CostTypeName] [NVARCHAR](50) NULL,
+	[Acccode2] [BIGINT] NULL,
+	[AccName2] [NVARCHAR](250) NULL,
+	[CaseID] [BIGINT] NULL,
+	[CaseName] [NVARCHAR](50) NULL
+) ON [PRIMARY] TEXTIMAGE_ON [PRIMARY]
+
+GO
+
+SET ANSI_PADDING OFF
+GO
+
+

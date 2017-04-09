@@ -1,0 +1,2 @@
+
+ALTER TABLE SalaryReport ADD Delivered BIT DEFAULT 0

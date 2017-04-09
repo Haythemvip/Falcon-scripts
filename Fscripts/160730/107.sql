@@ -1,0 +1,19 @@
+ 
+DROP TABLE [dbo].[TreeSecurity]
+GO
+
+ 
+SET ANSI_NULLS ON
+GO
+
+SET QUOTED_IDENTIFIER ON
+GO
+
+CREATE TABLE [dbo].[TreeSecurity](
+	[UserID] [BIGINT] NULL,
+	[AccCode] [BIGINT] NULL
+) ON [PRIMARY]
+
+GO
+
+

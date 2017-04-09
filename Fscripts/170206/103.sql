@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.El_Koyod_El_Yawmia ADD Date_Add DATE  DEFAULT GETDATE()

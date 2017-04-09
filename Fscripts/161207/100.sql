@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.EmpCosts ADD State BIT DEFAULT 0

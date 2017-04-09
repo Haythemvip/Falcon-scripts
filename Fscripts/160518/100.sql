@@ -1,0 +1,3 @@
+
+
+ALTER TABLE dbo.Item_Card ADD MoveType NVARCHAR(50)

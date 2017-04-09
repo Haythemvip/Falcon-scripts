@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.Groups_Sub ALTER COLUMN groupid BIGINT 

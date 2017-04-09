@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.workPlan ADD EnName NVARCHAR(50)

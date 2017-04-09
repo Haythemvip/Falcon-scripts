@@ -1,0 +1,1 @@
+ALTER TABLE dbo.POQ_Items ADD  HandPrice  FLOAT 

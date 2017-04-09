@@ -1,0 +1,8 @@
+
+ALTER TABLE dbo.EznEdafa_item  ALTER COLUMN SN NVARCHAR(max)
+ALTER TABLE dbo.EsnSarf_items  ALTER COLUMN SN NVARCHAR(max)
+ALTER TABLE dbo.Mardodat_Invoice_Com_NotTax_Items  ALTER COLUMN SN NVARCHAR(max)
+ALTER TABLE dbo.Stores_Transfares_items  ALTER COLUMN SN NVARCHAR(max)
+ALTER TABLE dbo.invcomeitemNoTax  ALTER COLUMN SN NVARCHAR(max)
+ALTER TABLE dbo.TaswyaEdafa_item  ALTER COLUMN SN NVARCHAR(max)
+ALTER TABLE dbo.FristStok_items  ALTER COLUMN SN NVARCHAR(max)

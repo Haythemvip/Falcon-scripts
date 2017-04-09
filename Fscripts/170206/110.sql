@@ -1,0 +1,4 @@
+
+ALTER TABLE dbo.persons ADD IBAN_NO NVARCHAR(50)
+
+ALTER TABLE dbo.persons ADD BankName NVARCHAR(150)

@@ -1,0 +1,3 @@
+
+ALTER TABLE dbo.EznEdafa_item ALTER COLUMN itemid BIGINT
+ALTER TABLE dbo.EsnSarf_items ALTER COLUMN itemid BIGINT

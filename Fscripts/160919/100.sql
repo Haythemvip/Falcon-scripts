@@ -1,0 +1,3 @@
+
+ALTER TABLE dbo.persons ADD AccID BIGINT 
+ALTER TABLE dbo.persons ADD AccName NVARCHAR(250) 

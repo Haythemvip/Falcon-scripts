@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.Falcon_Sitting ADD DeFaultSMSNO NVARCHAR(50)

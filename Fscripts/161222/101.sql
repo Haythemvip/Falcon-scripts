@@ -1,0 +1,2 @@
+
+ALTER TABLE tahseelrep ALTER COLUMN Isal_Vale FLOAT 

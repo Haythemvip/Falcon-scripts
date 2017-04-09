@@ -1,0 +1,3 @@
+
+
+ALTER TABLE dbo.Falcon_Sitting DROP COLUMN FTVT 

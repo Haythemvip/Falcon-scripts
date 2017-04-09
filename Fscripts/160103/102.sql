@@ -1,0 +1,7 @@
+ 
+CREATE PROCEDURE NewDataBase
+	@DataName NVARCHAR(50)
+AS
+
+
+GO

@@ -1,0 +1,1 @@
+ALTER TABLE  Tender_Tech ADD  IsStoped BIT DEFAULT 0

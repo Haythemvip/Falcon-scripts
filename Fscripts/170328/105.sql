@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.cut_code ADD EnName NVARCHAR(50)

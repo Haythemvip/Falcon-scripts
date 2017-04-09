@@ -1,0 +1,1 @@
+ALTER TABLE dbo.AAA_Last_Update ADD FalconV INT 

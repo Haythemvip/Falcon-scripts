@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.Item_Card ADD LonID BIGINT  

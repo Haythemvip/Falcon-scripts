@@ -1,0 +1,4 @@
+
+ALTER TABLE dbo.emp ADD StopSallery BIT DEFAULT 0
+ALTER TABLE dbo.emp ADD StopNewID BIT DEFAULT 0
+ALTER TABLE dbo.emp ADD StopVacation BIT DEFAULT 0

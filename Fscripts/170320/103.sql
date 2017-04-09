@@ -1,0 +1,2 @@
+
+ALTER TABLE dbo.customers ADD EMail NVARCHAR(250)

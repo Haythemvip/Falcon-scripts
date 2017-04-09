@@ -1,0 +1,6 @@
+
+
+ALTER TABLE dbo.byan ADD BoxID BIGINT 
+ALTER TABLE dbo.invcome ADD BoxID BIGINT 
+ALTER TABLE dbo.invcomeNoTax ADD BoxID BIGINT 
+ALTER TABLE dbo.invoiceout ADD BoxID BIGINT 

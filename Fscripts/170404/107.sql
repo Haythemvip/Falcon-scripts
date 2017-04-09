@@ -1,0 +1,1 @@
+ alter table Contract_Home_Allaw add TrueValue float 

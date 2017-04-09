@@ -1,0 +1,4 @@
+
+ALTER TABLE EsnSarf ADD  TO_StoreID BIGINT  DEFAULT 0
+
+ 

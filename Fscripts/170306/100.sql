@@ -1,0 +1,23 @@
+ 
+CREATE TABLE [dbo].[PayMentMethod_Invoice](
+	[ID] [INT] IDENTITY(1,1) NOT NULL,
+	[InvoiceID] [BIGINT] NULL,
+	[BankID] [BIGINT] NULL,
+	[Payment_method] [NVARCHAR](250) NULL,
+	[PayValue] [FLOAT] NULL,
+	[SwapCard] [NVARCHAR](250) NULL,
+	[AccID] [BIGINT] NULL,
+	[AccName] [NVARCHAR](250) NULL,
+	[IsTax] [BIT] NULL,
+ CONSTRAINT [PK_PayMentMethod_Invoice] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON) ON [PRIMARY]
+) ON [PRIMARY]
+
+GO
+
+ALTER TABLE [dbo].[PayMentMethod_Invoice] ADD  CONSTRAINT [DF_PayMentMethod_Invoice_IsTax]  DEFAULT ((0)) FOR [IsTax]
+GO
+
+
